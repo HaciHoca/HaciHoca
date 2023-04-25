@@ -4,7 +4,7 @@
   <br> <br>
 
 
-
+```
 javascript
 const krenarty = {
     krenarty: {
@@ -21,3 +21,4 @@ const krenarty = {
 },
     databases: ["MySql"],
 }}
+```
