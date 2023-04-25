@@ -6,9 +6,9 @@
 
 ```
 javascript
-const krenarty = {
-    krenarty: {
-        job: ["Web Developer"],
+const reprise = {
+    reprise: {
+        job: ["Fullstack Developer"],
         sex: ["Male"],
 },               
     code: ["JS", "C#", "HTML", "CSS", "PYTHON", "PHP"],
